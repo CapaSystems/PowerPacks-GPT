@@ -1,0 +1,1 @@
+Navngivningsregler, versionering, logging, osv

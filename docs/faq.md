@@ -1,0 +1,1 @@
+Typiske spørgsmål GPT’en kan svare på
